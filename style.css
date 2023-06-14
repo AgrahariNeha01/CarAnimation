@@ -75,12 +75,12 @@
 }
 .front-wheel{
     position: absolute;
-    left: 194px;
+    left: 200px;
     bottom: 0px;
 }
 .back-wheel{
     position: absolute;
-    left: 5px;
+    left: 7px;
     bottom: 0px;
 }
 @keyframes wheel {
